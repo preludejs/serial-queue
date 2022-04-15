@@ -1,5 +1,5 @@
 import * as A from '@prelude/array'
-import * as Q from '../cjs/index.js'
+import * as Q from './index.js'
 import eventually from './eventually.js'
 import sleep from './sleep.js'
 
